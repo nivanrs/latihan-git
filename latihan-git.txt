@@ -2,5 +2,5 @@ Lathan git
 - membuat akun github
 - mengetahui command dasar GIT
 - integrasi GIT
-- melakukan praktik GIT
+- melakukan praktik GIT sebagai latihan
 - melakukan kolaborasi GIT sebagai tugas
