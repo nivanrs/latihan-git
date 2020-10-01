@@ -1,0 +1,4 @@
+lathan git
+- membuat akun git
+- mengetahui command dasar git
+- integrasi git
