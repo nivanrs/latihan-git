@@ -1,4 +1,6 @@
-lathan git
-- membuat akun git
-- mengetahui command dasar git
-- integrasi git
+Lathan git
+- membuat akun github
+- mengetahui command dasar GIT
+- integrasi GIT
+- melakukan praktik GIT
+- melakukan kolaborasi GIT sebagai tugas
